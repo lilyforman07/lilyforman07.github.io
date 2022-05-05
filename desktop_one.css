@@ -1,31 +1,15 @@
-<!DOCTYPE html>
+h1 {
+    color: white;
+    background: yellow;
+}
 
-<html>
-    <head>
-        <meta charset="utf-8">
-        <title>Webpage</title>
-        <link rel="stylesheet" type="text/css" href="desktop_one.css">
 
-    </head>
+body {
+    background-color: salmon;
+}
 
-    <body>
+th {
+    color: white;
+    background: yellow;
+}
 
-        <h1>Lily's Webpage</h1>
-
-        <table>
-            <thead>
-                <tr>
-                    <th> Header 1 </th>
-                    <th> Header 2 </th>
-
-                </tr>
-
-            </thead>
-            <tbody>
-
-            <t/body>
-
-        </table>
-
-    </body>
-</html>
