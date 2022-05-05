@@ -1,12 +1,13 @@
+body {
+    background-color: salmon;
+}
+
+
 h1 {
     color: white;
     background: yellow;
 }
 
-
-body {
-    background-color: salmon;
-}
 
 th {
     color: white;
