@@ -7,11 +7,18 @@ h1 {
     color: green;
     text-align: center;
     font-family: "Josefin-Sans", sans-serif;
+    text-decoration: underline;
+    font-style: italic;
 
 }
 
 h2 {
         font-family: "Josefin-Sans", sans-serif;
         color: green;
+        font-style: italic;
     
+}
+
+.exotic-pets {
+    text-align: center;
 }
