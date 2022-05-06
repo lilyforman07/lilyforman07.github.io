@@ -4,10 +4,14 @@ body {
 
 
 h1 {
-    color: white;
+    color: green;
     text-align: center;
-    background-color: green;
     font-family: "Josefin-Sans", sans-serif;
 
 }
 
+h2 {
+        font-family: "Josefin-Sans", sans-serif;
+        color: green;
+    
+}
