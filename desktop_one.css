@@ -1,16 +1,22 @@
 body {
-    background-color: salmon;
+    background-color: skyblue;
  
 }
 
 
 h1 {
     color: green;
+    background-color: salmon;
     text-align: center;
     font-family: "Josefin-Sans", sans-serif;
     text-decoration: underline;
     font-style: italic;
 
+}
+
+h6 {
+    text-align: center;
+    font-size: 16;
 }
 
 #contents {
@@ -19,22 +25,23 @@ h1 {
         font-style: italic;
         text-align: right;
         margin-top: -200px;
-       
-      
+        margin-right: 100px;
        
 }
 
+
+
 ul {
-    float: right;
     padding-right: 50px;
+    padding-left: 1050px;
     font-family: "Josefin-Sans", sans-serif;
     font-size: 16px;
     color: blue;
+
 }
 
 .animals {
     color: brown;
-    text-align: left;
 }
 
 .animal-info {
