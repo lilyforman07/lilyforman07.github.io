@@ -1,5 +1,6 @@
 body {
     background-color: salmon;
+ 
 }
 
 
@@ -12,13 +13,40 @@ h1 {
 
 }
 
-h2 {
+#contents {
         font-family: "Josefin-Sans", sans-serif;
         color: green;
         font-style: italic;
-    
+        text-align: right;
+        margin-top: -200px;
+       
+      
+       
 }
 
-.exotic-pets {
+ul {
+    float: right;
+    padding-right: 50px;
+    font-family: "Josefin-Sans", sans-serif;
+    font-size: 16px;
+    color: blue;
+}
+
+.animals {
+    color: brown;
+    text-align: left;
+}
+
+.animal-info {
+    color: red;
+}
+
+#table {
+    margin-top: 200px;
+    float: right;
+}
+
+td {
     text-align: center;
 }
+
