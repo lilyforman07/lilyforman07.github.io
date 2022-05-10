@@ -1,14 +1,14 @@
 body {
-    background-color: skyblue;
+    background-color: green;
  
 }
 
 
 h1 {
-    color: green;
-    background-color: salmon;
+    color: black;
+    background-color: white;
     text-align: center;
-    font-family: "Josefin-Sans", sans-serif;
+    font-family: "Josefin Sans", sans-serif;
     text-decoration: underline;
     font-style: italic;
 
@@ -16,43 +16,74 @@ h1 {
 
 h6 {
     text-align: center;
-    font-size: 16;
+    font-size: 16px;
+    font-family: "Josefin Sans";
 }
 
 #contents {
-        font-family: "Josefin-Sans", sans-serif;
-        color: green;
+        font-family: "Righteous", sans-serif;
+        color: brown;
         font-style: italic;
         text-align: right;
-        margin-top: -200px;
+        margin-top: -1600px;
         margin-right: 100px;
        
+}
+
+.image {
+    
+    
+    width: 200;
+    height: 200;
 }
 
 
 ul {
     padding-right: 50px;
     padding-left: 1050px;
-    font-family: "Josefin-Sans", sans-serif;
+    margin-top:-1350px;
+    font-family: "Righteous", sans-serif;
     font-size: 16px;
-    color: blue;
+    color: yellow;
+    float: right;
+    text-align: center;
 
+}
+
+h2 {
+    color: brown;
+    font-family: "Righteous";
 }
 
 .animals {
     color: brown;
+    text-align: left;
+    font-family: "Righteous";
+    
 }
 
 .animal-info {
-    color: red;
+    color: yellow;
+    text-align: left;
+     font-family: "Righteous";
 }
 
 #table {
-    margin-top: 200px;
     float: right;
+    margin-right: 200px;
+    padding-top: 20px;
+    
+
+}
+
+th {
+    color: brown;
+    font-family: "Righteous";
 }
 
 td {
     text-align: center;
+    color: white;
+    font-family: "Righteous";
 }
 
